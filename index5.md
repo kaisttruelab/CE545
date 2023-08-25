@@ -9,20 +9,10 @@ Instructors
   - Yoonjin Yoon
       - e-mail: yoonjin@kaist.ac.kr
   
-  - Seyun Kim
-      - e-mail: whataud@kaist.ac.kr
+  - Yuyol Shin
+      - e-mail: yuyol.shin@kaist.ac.kr
+      - office: W16 407
 
-
-Teaching Assistants
-
-  - Hyeyeong Lee
-      - e-mail: leehy305@kaist.ac.kr
-  
-  - Gwanghwan Seong
-      - e-mail: skhshk@kaist.ac.kr
-  
-  - Junghee Kim
-      - e-mail: junghee@kaist.ac.kr
 
 
 
