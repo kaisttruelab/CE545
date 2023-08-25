@@ -8,10 +8,17 @@ nav_order: 1
 ## KAIST, Fall 2023
 {: .text-grey-dk-200}
 
-### Instructors: Yoonjin Yoon, Yuyol Shin
+### Instructors
+
+Yoonjin Yoon
 - email: yoonjin@kaist.ac.kr
 - office: W16 410
 - office hours: Wed. 15:00 ~ 16:00 or by appointment
+
+Yuyol Shin
+- email: yuyol.shin@kaist.ac.kr
+- office: W16 407
+- office hours: (TBD) or by appointment
 
 
 ### Class time
