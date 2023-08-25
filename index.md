@@ -10,7 +10,7 @@ nav_order: 1
 {: .text-grey-dk-200}
 
 
-### Instructors
+### Instructors: Yoonjin Yoon, Yuyol Shin
 
 
 Yoonjin Yoon
