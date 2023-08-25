@@ -4,40 +4,29 @@ layout: home
 nav_order: 1
 ---
 
-# **CE252 Class: Introduction to Data Science for Civil Engineers**
+# **CE545 Class: 	Applications of Artificial Intelligence to Transportation System Analyses**
 ## KAIST, Fall 2023
 {: .text-grey-dk-200}
 
-### Instructors: Yoonjin Yoon, Seyun Kim
+### Instructors: Yoonjin Yoon, Yuyol Shin
 - email: yoonjin@kaist.ac.kr
 - office: W16 410
 - office hours: Wed. 15:00 ~ 16:00 or by appointment
 
-### Teaching Assistants: Hyeyeong Lee (Head TA), Gwanghwan Seong, Junghee Kim
-- email: leehy305@kaist.ac.kr, skhshk@kaist.ac.kr, junghee@kaist.ac.kr
-- office: W16 407
-- office hours: (TBD) or by appointment
 
 ### Class time
- - Mon: 13:00~14:30
- - Wed: 13:00~14:30
+ - Mon: 14:30~16:00
+ - Wed: 14:30~16:00
 
 
 ### Classroom
-  - (W1-2) Dept. of Civil & Environmental Engineering 1211호
+  - (W1-2) Dept. of Civil & Environmental Engineering 1201
 
-
-### Lab
- - 1 hour lab (TBD)
 
 
 ### Course	Description
 
-Introductory	 course	 on	 data science	with	 focus	 on	Civil	 Engineering	applications.	 The	
-course	if	based	on	UC	Berkeley	Data	Science	course	Data	8.	The	course	will	cover	basic
-knowledge	 required	 for	 advanced data	 science	 including data	 literacy, probability,	
-statistical inference,	 modeling	 with	 regression.	 Prior	 training	 in	 basic	 engineering	
-mathemtics is	required.	Coding	experience is helpful	but	not	required.
+Advanced course in AI and ML applications to transportation system. This is a team-based PBL course that student teams up with other classmates to work on real-world case. Focus topic varies by the year. Topics from previous years include short-term traffic forecast, urban accessibility, and urban location intelligence.
 
 
 
