@@ -12,9 +12,9 @@ nav_order: 3
 
 ### Traffic data
 
-  - World Happiness Report 2023: It has been over ten years since the first World Happiness Report was published. And it is exactly ten years since the United Nations General Assembly adopted Resolution 66/281, proclaiming 20 March to be observed annually as International Day of Happiness. Since then, more and more people have come to believe that our success as countries should be judged by the happiness of our people. There is also a growing consensus about how happiness should be measured. This consensus means that national happiness can now become an operational objective for governments.
+  - This is an average taxi speed datasets of Seoul, South Korea. The original data is retrieved from !TOPIS(https://topis.seoul.go.kr). TOPIS aggregates the raw GPS tracking data collected from DTG (Digital Tacho Graph) on Seoul taxis into 5 min resolution. To use the dataset for evaluation of traffic forecasting models, we processed the dataset and defined two study areas - (1) urban-core, and (2) urban-mix Urban-core, located in Gangnam-gu, Seoul, is populated with rather homogeneous 304 links. Urban-mix is an expansion of Urban-core, and it is populated with heterogeneous 1,007 links. The data ranges from 2018.04.01 ~ 2018.04.30 (1 month)
 
-  - Homepage: [https://worldhappiness.report/](https://worldhappiness.report/)
+  - Homepage: [https://github.com/yuyolshin/SeoulSpeedData](https://github.com/yuyolshin/SeoulSpeedData)
 
   - Data
 
