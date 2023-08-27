@@ -52,7 +52,7 @@ Advanced course in AI and ML applications to transportation system. This is a te
 ### Week 1
 
 | **Aug 28**     | **Introduction**             | [Slide: Lecture materials](){: .btn .btn-blue } <br /> [Textbook (Regerence material)](){: .btn } |
-| **Aug 30**     | **Class organization**       | [Lab exercise 01](){: .btn .btn-green } <br /> [Lab 01](){: .btn .btn-outline }  |
+| **Aug 30**     | **Class organization**       |   |
 
 
 
