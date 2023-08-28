@@ -38,6 +38,7 @@ Yuyol Shin
 ### Course	Description
 
 Advanced course in AI and ML applications to transportation system. This is a team-based PBL course that student teams up with other classmates to work on real-world case. Focus topic varies by the year. Topics from previous years include short-term traffic forecast, urban accessibility, and urban location intelligence.
+[Syllabus](https://drive.google.com/file/d/1Qi9egNaXptfOmmAAqyoSA2IiU9ffoyKb/view?usp=drive_link)
 
 
 
